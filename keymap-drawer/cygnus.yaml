@@ -14,7 +14,7 @@ layers:
   - {t: \, h: '|', s: '|'}
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:mouse-right-click-outline$$
-  - $$mdi:apple-keyboard-caps$$
+  - $$mdi:pan-up$$
   - {t: A, s: '$$mdi:apple-keyboard-command$$'}
   - {t: S, s: '$$mdi:apple-keyboard-option$$'}
   - {t: D, h: '$$mdi:apple-keyboard-control$$'}
@@ -26,7 +26,7 @@ layers:
   - {t: L, s: '$$mdi:apple-keyboard-option$$'}
   - {t: ;, h: ':', s: ':'}
   - {t: '''', h: '"', s: '"'}
-  - $$mdi:apple-keyboard-shift$$
+  - $$mdi:pan-down$$
   - Z
   - X
   - C
