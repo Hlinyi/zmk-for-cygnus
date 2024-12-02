@@ -14,7 +14,7 @@ layers:
   - {t: \, h: '|', s: '|'}
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:mouse-right-click-outline$$
-  - $$mdi:pan-up$$
+  - '&msc SCROLL_DOWN'
   - {t: A, s: '$$mdi:apple-keyboard-command$$'}
   - {t: S, s: '$$mdi:apple-keyboard-option$$'}
   - {t: D, h: '$$mdi:apple-keyboard-control$$'}
@@ -26,7 +26,7 @@ layers:
   - {t: L, s: '$$mdi:apple-keyboard-option$$'}
   - {t: ;, h: ':', s: ':'}
   - {t: '''', h: '"', s: '"'}
-  - $$mdi:pan-down$$
+  - '&msc SCROLL_UP'
   - Z
   - X
   - C
@@ -274,21 +274,21 @@ combos:
   k: {t: '[', s: '{'}
 - p: [7, 8]
   k: {t: ']', s: '}'}
-- p: [15, 16]
+- p: [17, 18]
   k: (
-- p: [19, 20]
+- p: [22, 21]
   k: )
-- p: [27, 28]
+- p: [28, 29]
   k: '{'
-- p: [31, 32]
+- p: [33, 34]
   k: '}'
 - p: [5, 6]
   k: {t: \, s: '|'}
-- p: [17, 18]
+- p: [19, 20]
   k: '|'
 - p: [0, 1]
   k: $$mdi:keyboard-esc$$
-- p: [7, 8]
+- p: [9, 10]
   k: +
-- p: [21, 22]
+- p: [23, 24]
   k: {t: '=', s: +}
